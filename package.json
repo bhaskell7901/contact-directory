@@ -1,7 +1,7 @@
 {
   "name": "mini-project-develop",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app to track my contacts",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskell7901/contact-directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhaskell7901/contact-directory/issues"
+  },
+  "homepage": "https://github.com/bhaskell7901/contact-directory#readme"
 }
